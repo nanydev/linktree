@@ -12,6 +12,6 @@ function toggleMode() {
   } else {
 
     // se tiver sem light mode, manter a imagem normal - principal
-    img.setAttribute("src", "./assets/nanysun.png")
+    img.setAttribute("src", "./assets/img-dark.png")
   } 
 }
