@@ -8,7 +8,7 @@ function toggleMode() {
   //substituir a imagem
   if (html.classList.contains("light")) {
     // se tiver light mode, adc a imagem light
-    img.setAttribute('src', './assets/nanylight.png')
+    img.setAttribute("src", "./assets/img-sun.png")
   } else {
 
     // se tiver sem light mode, manter a imagem normal - principal
